@@ -1,9 +1,0 @@
-{
-  "name": "quits",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Quits: a monthly money check-in for couples. Static web app, no build step.",
-  "scripts": {
-    "start": "npx --yes serve -l 3000 ."
-  }
-}
